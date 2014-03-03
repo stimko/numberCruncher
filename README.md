@@ -1,1 +1,1 @@
-A game that tests your math skills
+A race against time to test your math skills

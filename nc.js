@@ -47,7 +47,6 @@ function generateNumbers(){
   console.log(eval(currentExpression));
 }
 
-
 function startGame(){
   generateNumbers();
   var timer = new Timer(10, 0, function(){alert('Time has expired')});
